@@ -1,0 +1,6 @@
+{
+  "name": "ScholarSync",
+  "description": "AI-Based Research Club and Similarity Recommendation System with TF-IDF, Plagiarism Detection and Dashboard Analytics",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
